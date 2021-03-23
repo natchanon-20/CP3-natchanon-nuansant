@@ -11,5 +11,10 @@ print("Gym member              3,300 bath")
 print("New home           10,000,000 bath")
 print("-----------------")
 print("total              17,192,300 bath")
-print("Hey friend")
 print("---------------------")
+
+'''
+ืทดสอบๆ 01
+'''
+print(10+10-1*5)
+print("10+10-1*5")
